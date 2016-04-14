@@ -31,7 +31,7 @@ $(window).stellar({
    ========================================================================== */
 
 $(function() {
-	var endDate = "August 31, 2016 00:00:00 GMT+9";
+	var endDate = "August 10, 2016 23:59:59 GMT+9";
 	$('.lu-countdown').countdown({
 		date: endDate,
 		render: function(data) {
